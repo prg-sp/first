@@ -145,7 +145,7 @@ p {
 .hero {
 	height: 80vh;
 	background-color: orange;
-	background-image: url('../images/hero.jpg');
+	background-image: url('/public/images/hero.jpg');
 	background-size: cover;
 	background-blend-mode: multiply;
 	background-position: center top;
